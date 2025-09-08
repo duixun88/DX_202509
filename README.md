@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # 글로벌 증권거래소 모니터링 시스템 (Copy)
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# DX_2025
+>>>>>>> 06e5a0b004f292e6651a7b639cb8a22d3a33c83c
